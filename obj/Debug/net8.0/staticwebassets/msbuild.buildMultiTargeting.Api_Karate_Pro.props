@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_Karate_Pro.props" />
+</Project>

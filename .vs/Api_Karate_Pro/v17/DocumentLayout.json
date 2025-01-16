@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\controllers\\informecontrollersolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\informecontrollersolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\controllers\\informecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\informecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\services\\informeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:services\\informeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\data\\dao\\informedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:data\\dao\\informedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:data\\dao\\c_base_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:util\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\model\\request\\competencia_a_competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\request\\competencia_a_competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\data\\dao\\iinformedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:data\\dao\\iinformedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\response\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\model\\request\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\request\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\model\\proc\\p_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\proc\\p_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\model\\proc\\p_informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:model\\proc\\p_informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|c:\\users\\admin\\documents\\udla\\proyectofinal\\api_karatepro\\api_karate_pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED350F88-2B09-4520-8521-CA8E3597A824}|Api_Karate_Pro.csproj|solutionrelative:api_karate_pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Services\\InformeService.cs",
+              "RelativeDocumentMoniker": "Services\\InformeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Services\\InformeService.cs",
+              "RelativeToolTip": "Services\\InformeService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:10:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\InformeDAO.cs",
+              "RelativeDocumentMoniker": "data\\DAO\\InformeDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\InformeDAO.cs",
+              "RelativeToolTip": "data\\DAO\\InformeDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:10:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "competencia_A_competencia.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Request\\competencia_A_competencia.cs",
+              "RelativeDocumentMoniker": "model\\Request\\competencia_A_competencia.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Request\\competencia_A_competencia.cs",
+              "RelativeToolTip": "model\\Request\\competencia_A_competencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:15:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:11:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\InformeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\InformeController.cs",
+              "RelativeToolTip": "Controllers\\InformeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAG0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:50:44.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InformeControllerSOLID.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\InformeControllerSOLID.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformeControllerSOLID.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\InformeControllerSOLID.cs",
+              "RelativeToolTip": "Controllers\\InformeControllerSOLID.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:12:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\util\\Conexion\\Conexion.cs",
+              "RelativeDocumentMoniker": "util\\Conexion\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\util\\Conexion\\Conexion.cs",
+              "RelativeToolTip": "util\\Conexion\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:54:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "c_base_datos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\c_base_datos.cs",
+              "RelativeDocumentMoniker": "data\\DAO\\c_base_datos.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\c_base_datos.cs",
+              "RelativeToolTip": "data\\DAO\\c_base_datos.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAgwIoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:09:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInformeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\IInformeDAO.cs",
+              "RelativeDocumentMoniker": "data\\DAO\\IInformeDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\data\\DAO\\IInformeDAO.cs",
+              "RelativeToolTip": "data\\DAO\\IInformeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:09:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompetenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\CompetenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompetenciaController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\CompetenciaController.cs",
+              "RelativeToolTip": "Controllers\\CompetenciaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:15:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Response\\Respuesta.cs",
+              "RelativeDocumentMoniker": "model\\Response\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Response\\Respuesta.cs",
+              "RelativeToolTip": "model\\Response\\Respuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:56:23.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Request\\Login.cs",
+              "RelativeDocumentMoniker": "model\\Request\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\Request\\Login.cs",
+              "RelativeToolTip": "model\\Request\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:56:14.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "p_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\proc\\p_Login.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\proc\\p_Login.cs",
+              "RelativeToolTip": "model\\proc\\p_Login.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:55:50.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "p_Informe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\proc\\p_Informe.cs",
+              "RelativeDocumentMoniker": "model\\proc\\p_Informe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\model\\proc\\p_Informe.cs",
+              "RelativeToolTip": "model\\proc\\p_Informe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:50:58.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:21:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "Controllers\\ClubController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:12:49.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Api_Karate_Pro.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Api_Karate_Pro.csproj",
+              "RelativeDocumentMoniker": "Api_Karate_Pro.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Api_Karate_Pro.csproj",
+              "RelativeToolTip": "Api_Karate_Pro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T19:51:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Udla\\proyectoFinal\\Api_KaratePro\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T19:51:37.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
