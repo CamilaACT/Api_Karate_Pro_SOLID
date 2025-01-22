@@ -1,5 +1,6 @@
 using Api_Karate_Pro.Custom;
 using Api_Karate_Pro.data.DAO;
+using Api_Karate_Pro.data.Repositories;
 using Api_Karate_Pro.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
@@ -15,6 +16,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 //DEPENDENCIAS DEL INFORME
 builder.Services.AddScoped<IInformeDAO, InformeDAO>();
+builder.Services.AddScoped<ICompetenciaRepository, CompetenciaRepository>();
 builder.Services.AddScoped<InformeService>();
 
 // Configura CORS

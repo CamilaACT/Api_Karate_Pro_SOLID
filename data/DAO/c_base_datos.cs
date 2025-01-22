@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using Api_Karate_Pro.util;
+using System.Data;
 using System.Data.SqlClient;
 
 namespace Api_Karate_Pro.data.DAO
@@ -39,7 +40,7 @@ namespace Api_Karate_Pro.data.DAO
                     return dt;
                 }
 
-                cn = new SqlConnection(cnxstr);
+                cn = ConexionSingleton.ObtenerInstancia().ObtenerConexion();
                 cn.Open();
 
                 cm = new SqlCommand();
