@@ -1,6 +1,35 @@
 # API KaratePro
 
 **API KaratePro** es una aplicación backend desarrollada con .NET 8, que proporciona funcionalidades para gestionar competencias de karate. La API permite la gestión de usuarios, peleas, rivales, técnicas y puntuaciones en un entorno seguro y eficiente.
+
+## **Principios SOLID Aplicados**
+
+### **1. Principio de Responsabilidad Única (SRP)**
+- Separé la lógica de negocio y el acceso a datos:
+  - **`InformeService`** maneja la lógica de negocio.
+  - **`InformeDAO`** se encarga exclusivamente del acceso a datos.
+
+### **2. Principio de Inversión de Dependencias (DIP)**
+- Creé la interfaz **`IInformeDAO`** para abstraer el acceso a datos.
+- **`InformeService`** depende de esta interfaz en lugar de una implementación concreta.
+
+---
+
+## **Patrones de Diseño Implementados**
+
+### **1. Singleton**
+- **`ConexionSingleton`** asegura que solo haya una instancia de conexión a la base de datos.
+- Todas las consultas reutilizan esta instancia, optimizando recursos.
+
+### **2. Builder**
+- **`CompetidorBuilder`** simplifica la creación de objetos `competidor_A_competidor` paso a paso.
+- Facilita la configuración de propiedades de forma legible y extensible.
+
+### **3. Repository**
+- **`CompetenciaRepository`** encapsula consultas complejas a la base de datos.
+- Centraliza el acceso a datos y evita que la lógica de negocio interactúe directamente con la base de datos.
+
+---
 ### Controladores expuestos:
 
 #### **ClubController**
